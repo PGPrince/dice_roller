@@ -1,3 +1,8 @@
+## Project Overview
+
+https://github.com/user-attachments/assets/30ab0d8b-6f78-497a-a064-22955ace08aa
+
+
 🎲 Roll Dice App – Flutter Practice Project
 
 This is a simple Roll Dice app built using Flutter as part of my practice to improve UI design and state management skills. The app displays a dice image and changes its face randomly (from 1 to 6) every time the user taps the "Roll Dice" button. The dice image updates based on a number generated using Dart’s random number function, and the UI is styled with a clean gradient background for a modern look.
@@ -23,8 +28,3 @@ Working with image assets.
 Creating custom UI with gradients and layout widgets like Column, TextButton, and Image.
 
 This project helped me get hands-on experience with Flutter's core concepts and improved my confidence in mobile app development.
-
-
-## Project Overview
-
-https://github.com/user-attachments/assets/30ab0d8b-6f78-497a-a064-22955ace08aa
